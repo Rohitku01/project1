@@ -17,6 +17,6 @@ Current Weather: Get the current weather conditions.
 
 Technologies
 
-Frontend: HTML, CSS, JavaScript, React (or your chosen framework/library)
+Frontend: HTML, CSS, JavaScript.
 
-API: OpenWeatherMap (or your chosen weather API)
+API: OpenWeatherMap
