@@ -6,8 +6,8 @@ Overview
 
 A simple weather application that provides current weather information and a 3-day forecast based on your location or a search query.
 
-Live Demo
-Check out the live demo here.
+Live Demo:
+ https://rohitku01.github.io/projectX/
 
 Features
 
